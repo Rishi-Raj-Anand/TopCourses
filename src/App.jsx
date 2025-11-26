@@ -49,7 +49,7 @@ function App() {
           Loading...</div>)
         }
 
-        <Testimonial reviews={reviews}></Testimonial>
+        {/* <Testimonial reviews={reviews}></Testimonial> */}
         <ToastContainer 
         autoClose={2000} />
       </div>

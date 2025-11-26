@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://https://rishi-raj-anand.github.io/TopCourses",
+  "homepage":"https://rishi-raj-anand.github.io/TopCourses",  
 
   "scripts": {
     "dev": "vite",
